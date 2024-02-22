@@ -8,8 +8,8 @@
 Test project for backend vacancy at CodeLeap company
 
 ## :hammer: Project installation
-- `1º passo`: Clone the repository on your machine.
-- `2º passo`: Upload docker ```docker compose up```, it will install the necessary django dependencies as well as the database
+- `1st step`: Clone the repository on your machine.
+- `2st step`: Upload docker ```docker compose up```, it will install the necessary django dependencies as well as the database
 
 ## ✔️ Access API documentation with swagger
 -> To access the project's swagger documentation, access the route ```localhost:8000/api/```<br>
